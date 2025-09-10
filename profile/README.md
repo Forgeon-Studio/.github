@@ -1,6 +1,6 @@
 # Forgeon Studio
 
-![Forgeon Banner](images/photo_2025-09-10_23-06-19.png)
+![Forgeon Banner](images/photo_2025-09-10_23-06-19.jpg)
 
 > *“Мы плетём миры. Мы создаём инструменты. Мы бережём серверы.”*  
 
